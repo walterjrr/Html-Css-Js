@@ -5,10 +5,16 @@ Este Repositorio contem projetos e Desafios de Logica de programação com Javas
 Perfil do beecrowd
 https://www.beecrowd.com.br/judge/en/profile/519068
 
+Via Cep
+LIVE DEMO
+https://consultacepjr.vercel.app/
+
+# Projetos Html/Css/Javascript
+
 Expanding Cards
 LIVE DEMO
 https://wjrr-expanding-cards.netlify.app/-cards/
 
-Via Cep
+Rotation Navigation
 LIVE DEMO
-https://consultacepjr.vercel.app/
+https://wjrotationnavigation.netlify.app/
